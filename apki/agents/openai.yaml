@@ -1,0 +1,6 @@
+interface:
+  display_name: "ApKI — Apple Knowledge Index"
+  short_description: "Find official Apple developer resources"
+  icon_small: "./assets/apki.png"
+  icon_large: "./assets/apki.png"
+  default_prompt: "Use $apki to find current official Apple resources for an Apple-platform development question."
