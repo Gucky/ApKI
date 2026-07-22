@@ -10,7 +10,7 @@
   <a href="https://www.linkedin.com/in/wolfgang-muhsal-12408194/"><img alt="LinkedIn" src="https://img.shields.io/badge/Contact-LinkedIn-95a5a6.svg?style=flat"></a>
 </p>
 
-ApKI is a compact routing skill for current, official Apple developer resources. It indexes Apple Developer videos, framework documentation, Swift, Human Interface Guidelines, sample code, technology overviews, and Apple Open Source without copying the underlying documentation into the skill.
+ApKI is a compact routing skill for current, official Apple developer resources. It indexes Apple Developer videos, framework documentation, Swift, Human Interface Guidelines, sample code, technology overviews, Apple Open Source, and curated Apple/SwiftLang open-source repositories without copying the underlying documentation into the skill.
 
 ## Installing ApKI
 
@@ -59,6 +59,7 @@ ApKI provides:
 - a complete Apple Developer video catalogue;
 - a directory of Apple frameworks and technologies;
 - focused component indexes for common Apple-platform development tasks;
+- curated Apple and SwiftLang libraries, developer tooling, toolchain references, and evolution resources;
 - direct routes to HIG, sample code, technology overviews, and Apple Open Source.
 
 ## Requirements
@@ -73,4 +74,4 @@ ApKI was created by [Wolfgang Muhsal](https://github.com/Gucky). It is available
 
 The MIT License applies to ApKI’s original content and structure.
 
-Apple documentation, videos, sample code, trademarks, and other linked materials remain subject to Apple’s applicable terms and licenses. Apple-provided video summaries in ApKI identify their linked Apple video pages and remain subject to those same terms. ApKI is an independent project and is not affiliated with or endorsed by Apple Inc.
+Apple and SwiftLang repository descriptions, documentation, videos, sample code, trademarks, and other linked materials remain subject to their applicable terms and licenses. Apple-provided video summaries in ApKI identify their linked Apple video pages and remain subject to those same terms. ApKI is an independent project and is not affiliated with or endorsed by Apple Inc.
