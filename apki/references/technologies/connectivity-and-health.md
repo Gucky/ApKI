@@ -1,6 +1,6 @@
 # Connectivity and Health Index
 
-Use the matching framework subsection for a named networking, device-connectivity, home, or health type. Per-framework update dates are recorded in [index status](../index-status.json).
+Use the matching framework subsection for a named networking, device-connectivity, home, or health type.
 
 ## Network and Bluetooth
 

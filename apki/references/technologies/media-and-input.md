@@ -1,6 +1,6 @@
 # Media and Input Index
 
-Use the matching framework subsection for a named media, camera, analysis, drawing, haptic, or speech type. Per-framework update dates are recorded in [index status](../index-status.json).
+Use the matching framework subsection for a named media, camera, analysis, drawing, haptic, or speech type.
 
 ## Photos
 

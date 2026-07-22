@@ -1,6 +1,6 @@
 # Data and Integrations Index
 
-Use the matching subsection for data persistence, cloud synchronisation, reactive streams, identity, or web-content APIs. Per-framework update dates are recorded in [index status](../index-status.json).
+Use the matching subsection for data persistence, cloud synchronisation, reactive streams, identity, or web-content APIs.
 
 ## Core Data and CloudKit
 

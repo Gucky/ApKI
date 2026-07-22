@@ -73,4 +73,4 @@ ApKI was created by [Wolfgang Muhsal](https://github.com/Gucky). It is available
 
 The MIT License applies to ApKI’s original content and structure.
 
-Apple documentation, videos, sample code, trademarks, and other linked materials remain subject to Apple’s applicable terms and licenses. ApKI is an independent project and is not affiliated with or endorsed by Apple Inc.
+Apple documentation, videos, sample code, trademarks, and other linked materials remain subject to Apple’s applicable terms and licenses. Apple-provided video summaries in ApKI identify their linked Apple video pages and remain subject to those same terms. ApKI is an independent project and is not affiliated with or endorsed by Apple Inc.

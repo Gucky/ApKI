@@ -1,12 +1,12 @@
 # WWDC14
 
 - Source catalogue: [https://developer.apple.com/videos/all-videos/](https://developer.apple.com/videos/all-videos/)
-- Index updated: `2026-07-17T09:26:41Z`
+- Index updated: `2026-07-17T09:26:43Z`
 - Videos: **6**
 
-- [Direct Access to Video Encoding and Decoding](https://developer.apple.com/videos/play/wwdc2014/513/) (52:43 · audio-&-video · ios, ipados, macos)
-- [Ingredients of Great Games](https://developer.apple.com/videos/play/wwdc2014/602/) (56:33 · design · ios, ipados)
-- [Prototyping: Fake It Till You Make It](https://developer.apple.com/videos/play/wwdc2014/223/) (57:50 · design · ios, ipados, macos)
-- [Working with Metal: Advanced](https://developer.apple.com/videos/play/wwdc2014/605/) (53:18 · graphics-&-games · ios, ipados)
-- [Working with Metal: Fundamentals](https://developer.apple.com/videos/play/wwdc2014/604/) (53:43 · graphics-&-games · ios, ipados)
-- [Working with Metal: Overview](https://developer.apple.com/videos/play/wwdc2014/603/) (46:23 · graphics-&-games · ios, ipados)
+- [Direct Access to Video Encoding and Decoding](https://developer.apple.com/videos/play/wwdc2014/513/) — Discover how to use AV Foundation and Video Toolbox to access hardware accelerated encoding and decoding services. Gain best practices for when it is appropriate to use a high-level or low-level API for encoding or decoding. Learn about multi-pass export for improved H.264 encoding and see how to use it in your app. (52:43 · audio-&-video · ios, ipados, macos)
+- [Ingredients of Great Games](https://developer.apple.com/videos/play/wwdc2014/602/) — Kick off the game development sessions of WWDC 2014 by gaining insight into the key ingredients needed to create a great game for iOS. Understand the importance of harnessing the full capabilities of the platform to create a richer gameplay experience. Get practical guidance about game production and distribution, and learn the design and platform conventions that will make your game even more engaging. (56:33 · design · ios, ipados)
+- [Prototyping: Fake It Till You Make It](https://developer.apple.com/videos/play/wwdc2014/223/) — Make better apps by trying things out first, before you write any code. Get a glimpse of Apple's prototyping process and the range of tools and techniques we use, some of which might surprise you. (57:50 · design · ios, ipados, macos)
+- [Working with Metal: Advanced](https://developer.apple.com/videos/play/wwdc2014/605/) — Building on the fundamentals, learn how to create advanced games and graphics applications with Metal. See how to construct your rendering pipeline, understand how to use compute and graphics together, and discover how to optimize your Metal-based app. (53:18 · graphics-&-games · ios, ipados)
+- [Working with Metal: Fundamentals](https://developer.apple.com/videos/play/wwdc2014/604/) — Start learning how to code with Metal in this step-by-step walkthrough of basic scene rendering. See the code you need to get your first Metal-based application up and running. Explore how to create graphics and compute shaders and efficiently animate scenes. (53:43 · graphics-&-games · ios, ipados)
+- [Working with Metal: Overview](https://developer.apple.com/videos/play/wwdc2014/603/) — Metal provides extremely efficient access to the graphics and compute power of the A7 chip. Get introduced to the essential concepts behind Metal, its low-overhead architecture, streamlined API, and unified shading language. See how Metal lets you take your iOS game or app to the next level of performance and capability. (46:23 · graphics-&-games · ios, ipados)

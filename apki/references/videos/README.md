@@ -1,12 +1,10 @@
 # Apple Developer Videos
 
-Compact entry point to Apple’s complete current video catalogue. Read only the relevant event file; each entry links to Apple’s detail page, where video, transcript/search and supplementary material remain authoritative.
+Compact entry point to Apple’s complete current video catalogue. Use the individual event and collection files to search for entries relevant to the requested topic; each entry pairs the Apple video link with Apple’s concise summary, while the detail page remains authoritative for video, transcript/search, and supplementary material.
 
 - Source: [https://developer.apple.com/videos/all-videos/](https://developer.apple.com/videos/all-videos/)
-- Index updated: `2026-07-17T09:26:41Z`
+- Index updated: `2026-07-17T09:26:43Z`
 - Videos indexed: **1840**
-
-- [Video index coverage](coverage.md)
 
 ## Events and collections
 
