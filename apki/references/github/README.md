@@ -6,5 +6,5 @@ Curated official repositories from [Apple](https://github.com/apple) and [SwiftL
 
 - [Libraries](libraries.md) — 30 repositories
 - [Developer Tooling](tooling.md) — 11 repositories
-- [Apple-Platform Integrations](platform-integrations.md) — 4 repositories
+- [Apple-Platform Integrations](platform-integrations.md) — 5 repositories
 - [Toolchain and Evolution](toolchain-and-evolution.md) — 10 repositories

@@ -1,8 +1,8 @@
 # WWDC15
 
 - Source catalogue: [https://developer.apple.com/videos/all-videos/](https://developer.apple.com/videos/all-videos/)
-- Index updated: `2026-07-17T09:26:43Z`
-- Videos: **11**
+- Index updated: `2026-08-06T11:29:02Z`
+- Videos: **12**
 
 - [Advanced Debugging and the Address Sanitizer](https://developer.apple.com/videos/play/wwdc2015/413/) — Discover UI debugging and how to use advanced breakpoint actions to quickly explore and fix your app. Learn how the new Address Sanitizer feature finds buffer overflows, use-after-free errors, and other memory corruption bugs at run time. (33:52 · developer-tools · ios, ipados, macos, watchos)
 - [Apple Watch Design Tips and Tricks](https://developer.apple.com/videos/play/wwdc2015/805/) — Get essential design guidance for creating Apple Watch apps that support quick and efficient interaction, make accessing features and information more convenient, and compliment their companion iOS apps. Learn key tips about information architecture, layout, typography, color and app icon design that will make your app easy to use, beautiful and delightful. (51:54 · design · watchos)
@@ -15,3 +15,4 @@
 - [What's New in Core Motion](https://developer.apple.com/videos/play/wwdc2015/705/) — See what's new in Core Motion. Learn how your application can take advantage of the motion sensors on iOS devices. Walk through new features of the pedometer and learn how to use the altimeter to take your app to the next level. Get personal with motion APIs and sensor data on the Apple Watch. Run through a demo that uses motion-context awareness to make an application feel smarter! (39:48 · graphics-&-games · ios, ipados, watchos)
 - [What's New in LLDB](https://developer.apple.com/videos/play/wwdc2015/402/) — Enhancements to LLDB simplify life for Swift and Objective-C developers alike. Experienced developers will find new powers within the debugging console, and learn more about the connection between the debugger and Swift REPL. Newcomers will get insight into the range of possibilities hidden behind the LLDB prompt. (38:37 · developer-tools · ios, ipados, macos, watchos)
 - [What's New in MapKit](https://developer.apple.com/videos/play/wwdc2015/206/) — See what's new in MapKit. Learn about improvements to existing APIs and new ways of incorporating transit ETAs and Flyover map views in your app. (34:32 · maps-&-location · ios, ipados, macos)
+- [Your App and Next Generation Networks](https://developer.apple.com/videos/play/wwdc2015/719/) — IPv6 is growing exponentially and carriers worldwide are moving to pure IPv6 APNs. Learn about new tools to test your apps for compatibility and get expert advice on making sure your apps work in all network environments. iOS 9 and OS X 10.11 now support the latest TCP standards. Hear from the experts on TCP Fast Open and Explicit Congestion Notification, and find out how it benefits your apps. (52:41 · system-services · ios, ipados, macos)

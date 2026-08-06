@@ -1,7 +1,7 @@
 # WWDC23
 
 - Source catalogue: [https://developer.apple.com/videos/all-videos/](https://developer.apple.com/videos/all-videos/)
-- Index updated: `2026-07-17T09:26:43Z`
+- Index updated: `2026-08-06T11:29:02Z`
 - Videos: **316**
 
 - [17 big & little things at WWDC23](https://developer.apple.com/videos/play/wwdc2023/111486/) — Here's your guide to some of the big (and little) things announced on the first day of WWDC. (2:15 · essentials)

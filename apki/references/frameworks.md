@@ -3,8 +3,8 @@
 The current Apple Technology directory, listed alphabetically. Entries are framework/topic landing pages, not frozen API documentation; use the Apple link for the current canonical detail.
 
 - Source: [https://developer.apple.com/tutorials/data/documentation/technologies.json](https://developer.apple.com/tutorials/data/documentation/technologies.json)
-- Index updated: `2026-07-17T09:26:41Z`
-- Frameworks and technology topics: **396**
+- Index updated: `2026-08-06T11:29:02Z`
+- Frameworks and technology topics: **397**
 
 - [Accelerate](https://developer.apple.com/documentation/Accelerate)
 - [Accessibility](https://developer.apple.com/documentation/Accessibility)
@@ -34,7 +34,6 @@ The current Apple Technology directory, listed alphabetically. Entries are frame
 - [App Store Receipts](https://developer.apple.com/documentation/AppStoreReceipts)
 - [App Store Server API](https://developer.apple.com/documentation/AppStoreServerAPI)
 - [App Store Server Notifications](https://developer.apple.com/documentation/AppStoreServerNotifications)
-- [App Tracking Transparency](https://developer.apple.com/documentation/AppTrackingTransparency)
 - [AppKit](https://developer.apple.com/documentation/AppKit)
 - [Apple Ads](https://developer.apple.com/documentation/apple_ads)
 - [Apple Archive](https://developer.apple.com/documentation/AppleArchive)
@@ -52,6 +51,7 @@ The current Apple Technology directory, listed alphabetically. Entries are frame
 - [Apple silicon](https://developer.apple.com/documentation/apple-silicon)
 - [Application Services](https://developer.apple.com/documentation/applicationservices)
 - [AppMigrationKit](https://developer.apple.com/documentation/AppMigrationKit)
+- [AppTrackingTransparency](https://developer.apple.com/documentation/AppTrackingTransparency)
 - [ARKit](https://developer.apple.com/documentation/ARKit)
 - [Assets Library](https://developer.apple.com/documentation/AssetsLibrary)
 - [Assignables](https://developer.apple.com/documentation/Assignables)
@@ -77,7 +77,7 @@ The current Apple Technology directory, listed alphabetically. Entries are frame
 - [BrowserKit](https://developer.apple.com/documentation/BrowserKit)
 - [Bundle Resources](https://developer.apple.com/documentation/BundleResources)
 - [CallKit](https://developer.apple.com/documentation/CallKit)
-- [CarKey](https://developer.apple.com/documentation/CarKey)
+- [CarKey](https://developer.apple.com/documentation/carkey)
 - [CarPlay](https://developer.apple.com/documentation/CarPlay)
 - [CFNetwork](https://developer.apple.com/documentation/CFNetwork)
 - [Cinematic](https://developer.apple.com/documentation/Cinematic)
@@ -372,6 +372,7 @@ The current Apple Technology directory, listed alphabetically. Entries are frame
 - [User Notifications UI](https://developer.apple.com/documentation/UserNotificationsUI)
 - [Video Subscriber Account](https://developer.apple.com/documentation/VideoSubscriberAccount)
 - [Video Toolbox](https://developer.apple.com/documentation/VideoToolbox)
+- [VideoDriverKit](https://developer.apple.com/documentation/VideoDriverKit)
 - [Virtualization](https://developer.apple.com/documentation/Virtualization)
 - [Vision](https://developer.apple.com/documentation/Vision)
 - [VisionKit](https://developer.apple.com/documentation/VisionKit)

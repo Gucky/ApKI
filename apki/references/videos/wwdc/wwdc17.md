@@ -1,7 +1,7 @@
 # WWDC17
 
 - Source catalogue: [https://developer.apple.com/videos/all-videos/](https://developer.apple.com/videos/all-videos/)
-- Index updated: `2026-07-17T09:26:43Z`
+- Index updated: `2026-08-06T11:29:02Z`
 - Videos: **36**
 
 - [60-Second Prototyping](https://developer.apple.com/videos/play/wwdc2017/818/) — Learn how to quickly build interactive prototypes! See how you can test new ideas and improve upon existing ones with minimal time investment and using tools you are already familiar with. (10:41 · design · ios, ipados, macos, tvos, watchos)

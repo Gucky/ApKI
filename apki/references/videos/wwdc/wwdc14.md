@@ -1,7 +1,7 @@
 # WWDC14
 
 - Source catalogue: [https://developer.apple.com/videos/all-videos/](https://developer.apple.com/videos/all-videos/)
-- Index updated: `2026-07-17T09:26:43Z`
+- Index updated: `2026-08-06T11:29:02Z`
 - Videos: **6**
 
 - [Direct Access to Video Encoding and Decoding](https://developer.apple.com/videos/play/wwdc2014/513/) — Discover how to use AV Foundation and Video Toolbox to access hardware accelerated encoding and decoding services. Gain best practices for when it is appropriate to use a high-level or low-level API for encoding or decoding. Learn about multi-pass export for improved H.264 encoding and see how to use it in your app. (52:43 · audio-&-video · ios, ipados, macos)
