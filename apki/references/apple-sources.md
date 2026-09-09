@@ -2,7 +2,11 @@
 
 Use these source hubs when a request is broader than a single framework or WWDC session.
 
-- Index updated: `2026-07-17T09:26:41Z`
+- Index updated: `2026-09-09T21:10:22Z`
+
+## Current platform spotlights
+
+- [Get ready for iPhone Duo](https://developer.apple.com/iphone-duo/) — Apple’s current hub for iPhone Duo videos, developer activities, tools, and documentation.
 
 ## Developer documentation
 

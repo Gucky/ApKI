@@ -1,7 +1,7 @@
 # WWDC20
 
 - Source catalogue: [https://developer.apple.com/videos/all-videos/](https://developer.apple.com/videos/all-videos/)
-- Index updated: `2026-08-06T11:29:02Z`
+- Index updated: `2026-09-09T21:21:54Z`
 - Videos: **209**
 
 - [A conversation with Lisa Jackson and former Attorney General Eric Holder](https://developer.apple.com/videos/play/wwdc2020/10970/) — Eric Holder was the 82nd Attorney General of the United States, having served from 2009 to 2015. The first Black American to hold the position, Holder's six-year tenure also makes him one of the longest-serving occupants of the office. Currently a partner in Covington & Burling, he's served in government for more than 30 years, including appointments by Presidents Obama, Clinton, and Reagan. Lisa Jackson, Apple's vice president of Environment, Policy and Social Initiatives, will interview the former Attorney General on the topic of race in America. This wide-ranging discussion will touch on the fight for equal justice, how technology can empower people to change the world for the better, and ways to help in this moment. (22:48 · accessibility-&-inclusion · ios, ipados, macos, tvos, watchos)

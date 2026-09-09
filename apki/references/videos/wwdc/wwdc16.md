@@ -1,7 +1,7 @@
 # WWDC16
 
 - Source catalogue: [https://developer.apple.com/videos/all-videos/](https://developer.apple.com/videos/all-videos/)
-- Index updated: `2026-08-06T11:29:02Z`
+- Index updated: `2026-09-09T21:21:54Z`
 - Videos: **17**
 
 - [Advanced Metal Shader Optimization](https://developer.apple.com/videos/play/wwdc2016/606/) — The Metal shading language is an easy-to-use programming language for writing graphics and compute functions which execute on the GPU. Dive deeper into understanding the design patterns, memory access models, and detailed shader coding best practices which reduce bottlenecks and hide latency. Intended for experienced shader authors with a solid understanding of GPU architecture and hoping to extract every possible cycle. (41:15 · developer-tools · ios, ipados, tvos)

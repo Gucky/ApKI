@@ -1,7 +1,7 @@
 # WWDC19
 
 - Source catalogue: [https://developer.apple.com/videos/all-videos/](https://developer.apple.com/videos/all-videos/)
-- Index updated: `2026-08-06T11:29:02Z`
+- Index updated: `2026-09-09T21:21:54Z`
 - Videos: **159**
 
 - [Accessibility in SwiftUI](https://developer.apple.com/videos/play/wwdc2019/238/) — Making your app accessible is critical, but just as important is designing a fantastic accessibility experience. Learn what makes a great experience and how to make your app understandable, navigable, and interactable. SwiftUI builds accessibility into your app for you! Discover how much you get with no extra adoption, like accessible images and controls. Identify where you can add supplemental accessibility information with the new SwiftUI Accessibility API, which gives you the tools to add information to elements such as labels, values, and hints. (38:06 · swiftui-&-ui-frameworks · ios, ipados, macos)
