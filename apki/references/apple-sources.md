@@ -2,11 +2,13 @@
 
 Use these source hubs when a request is broader than a single framework or WWDC session.
 
-- Index updated: `2026-09-09T21:10:22Z`
+- Index updated: `2026-09-20`
 
 ## Current platform spotlights
 
 - [Get ready for iPhone Duo](https://developer.apple.com/iphone-duo/) — Apple’s current hub for iPhone Duo videos, developer activities, tools, and documentation.
+- [Preparing your app for iPhone Duo](https://developer.apple.com/documentation/technologyoverviews/preparing-your-app-for-iphone-duo) — implementation overview for resizing, vertical bars, arrangement views, reserved regions, and cameras.
+- [Designing for iPhone Duo](https://developer.apple.com/design/human-interface-guidelines/designing-for-iphone-duo) — design guidance for device poses, dynamic layouts, the fold, split and arrangement views, and vertical controls.
 
 ## Developer documentation
 

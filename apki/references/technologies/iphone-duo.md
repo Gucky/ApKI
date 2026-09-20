@@ -2,9 +2,14 @@
 
 Use these Apple primary sources when adapting an app to iPhone Duo’s outer and inner displays, folding poses, resizable layouts, vertical system bars, multiple scenes, hinge interactions, or camera behavior.
 
-- Launch hub: [Get ready for iPhone Duo](https://developer.apple.com/iphone-duo/)
-- Verified: `2026-09-09`
-- Apple currently lists **six developer videos** on the launch hub. “Get ready for iPhone Duo” is the hub’s title, not a seventh video.
+## Primary sources
+
+- [Get ready for iPhone Duo](https://developer.apple.com/iphone-duo/) — launch hub for videos, developer activities, Xcode, documentation, and design resources
+- [Preparing your app for iPhone Duo](https://developer.apple.com/documentation/technologyoverviews/preparing-your-app-for-iphone-duo) — implementation overview covering resizing, vertical bars, arrangement views, reserved regions, cameras, and testing across displays and poses
+- [Designing for iPhone Duo](https://developer.apple.com/design/human-interface-guidelines/designing-for-iphone-duo) — HIG guidance covering anatomy, poses, dynamic layouts, reserved regions, split and arrangement views, and vertical controls
+- Verified: `2026-09-20`
+
+The launch hub currently lists **six Tech Talks**. “Get ready for iPhone Duo” is the hub’s title, not a seventh video. The Apple video catalogue also includes two recorded Group Labs.
 
 ## Apple developer videos
 
@@ -17,6 +22,25 @@ Use these Apple primary sources when adapting an app to iPhone Duo’s outer and
 
 Open each video page for its current chapter summaries, code examples, related videos, and downloads. The complete Tech Talks catalogue, including Apple’s full summaries and metadata for these sessions, is in [Tech Talks](../videos/other/tech-talks.md).
 
-## Announced follow-up resources
+## Group Labs
 
-Apple’s launch hub currently announces Xcode 27.1 beta, “Designing for iPhone Duo,” and “Preparing your app for iPhone Duo” as upcoming resources. Check the live hub before reporting them as available. Workshops, group labs, and Q&A sessions listed there are also time-sensitive.
+- [iPhone Duo Group Lab — recording 286](https://developer.apple.com/videos/play/meet-with-apple/286/) — layouts across displays and poses, the hinge, Split View multitasking, and camera experiences
+- [iPhone Duo Group Lab — recording 285](https://developer.apple.com/videos/play/meet-with-apple/285/) — layouts across displays and poses, the hinge, Split View multitasking, and camera experiences
+
+The complete collection metadata is in [Meet with Apple](../videos/other/meet-with-apple.md).
+
+## Related WWDC sessions
+
+- [Modernize your UIKit app](https://developer.apple.com/videos/play/wwdc2026/278/) — resizable UIKit layouts, updated tab and navigation bars, and current modernization APIs
+- [Make your UIKit app more flexible](https://developer.apple.com/videos/play/wwdc2025/282/) — scenes, window resizing, multitasking, split views, inspectors, and adaptive layout APIs
+
+## High-value API routes
+
+- Adaptive composition: [ArrangementView](https://developer.apple.com/documentation/swiftui/arrangementview) and [UIArrangementViewController](https://developer.apple.com/documentation/uikit/uiarrangementviewcontroller)
+- Fold and camera avoidance: [ReservedRegion](https://developer.apple.com/documentation/swiftui/reservedregion) and [UIView.ReservedRegion](https://developer.apple.com/documentation/uikit/uiview/reservedregion)
+- Vertical bars: [toolbarVerticalEdge](https://developer.apple.com/documentation/swiftui/environmentvalues/toolbarverticaledge), [axisBehavior(_:)](https://developer.apple.com/documentation/swiftui/toolbarcontent/axisbehavior(_:)), [visibilityPriority(_:)](https://developer.apple.com/documentation/swiftui/toolbarcontent/visibilitypriority(_:)), and [ToolbarOverflowMenu](https://developer.apple.com/documentation/swiftui/toolbaroverflowmenu)
+- Camera direction and dual-display capture: [Choosing a camera by the direction it faces](https://developer.apple.com/documentation/avkit/choosing-a-camera-by-the-direction-it-faces) and [Registering a camera capture accessory on iPhone Duo](https://developer.apple.com/documentation/avfoundation/registering-a-camera-capture-accessory-on-iphone-duo)
+
+## Time-sensitive material
+
+The launch hub’s Xcode beta, workshops, live Q&As, and design-resource availability are time-sensitive. Check the live hub before reporting dates or availability.

@@ -19,6 +19,6 @@ Read a technology index when a request names a commonly used component or API ty
 - [Connectivity and Health](connectivity-and-health.md) — Network, Bluetooth, nearby devices, HomeKit, and HealthKit
 - [Intelligence and Guidance](intelligence-and-guidance.md) — Foundation Models, TipKit, and related primary sources
 - [Platforms and Quality](platforms-and-quality.md) — AppKit, watchOS, tvOS, AR/visionOS, testing, diagnostics, and accessibility
-- [iPhone Duo](iphone-duo.md) — Apple’s launch hub and six Tech Talks covering design, adaptive layouts, bars, multiple displays and scenes, the hinge, and cameras
+- [iPhone Duo](iphone-duo.md) — Apple’s launch hub, implementation overview, HIG guidance, six Tech Talks, and Group Labs covering adaptive layouts, bars, multiple displays and scenes, the hinge, and cameras
 - [Data and Integrations](data-and-integrations.md) — Core Data, CloudKit, Combine, authentication, embedded web content, and Safari
 - [Machine Learning and Charts](machine-learning-and-charts.md) — Core ML and Swift Charts entry points
