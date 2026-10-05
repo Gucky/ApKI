@@ -1,7 +1,7 @@
 # WWDC22
 
 - Source catalogue: [https://developer.apple.com/videos/all-videos/](https://developer.apple.com/videos/all-videos/)
-- Index updated: `2026-09-20T08:29:15Z`
+- Index updated: `2026-10-02T13:09:55Z`
 - Videos: **316**
 
 - [Accelerate machine learning with Metal](https://developer.apple.com/videos/play/wwdc2022/10063/) — Discover how you can use Metal to accelerate your PyTorch model training on macOS. We'll take you through updates to TensorFlow training support, explore the latest features and operations of MPS Graph, and share best practices to help you achieve great performance for all your machine learning needs. For more on using Metal with machine learning, watch "Accelerate machine learning with Metal Performance Shaders Graph" from WWDC21. (29:51 · graphics-&-games · ios, ipados, macos)

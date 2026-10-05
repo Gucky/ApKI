@@ -1,7 +1,7 @@
 # WWDC24
 
 - Source catalogue: [https://developer.apple.com/videos/all-videos/](https://developer.apple.com/videos/all-videos/)
-- Index updated: `2026-09-20T08:29:15Z`
+- Index updated: `2026-10-02T13:09:55Z`
 - Videos: **123**
 
 - [18 things from WWDC24](https://developer.apple.com/videos/play/wwdc2024/111976/) — Here's your guide to the big announcements from this year's Worldwide Developers Conference. (2:43 · essentials · ios, ipados, macos, tvos, visionos, watchos)

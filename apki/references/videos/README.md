@@ -3,7 +3,7 @@
 Compact entry point to Apple’s complete current video catalogue. Use the individual event and collection files to search for entries relevant to the requested topic; each entry pairs the Apple video link with Apple’s concise summary, while the detail page remains authoritative for video, transcript/search, and supplementary material.
 
 - Source: [https://developer.apple.com/videos/all-videos/](https://developer.apple.com/videos/all-videos/)
-- Index updated: `2026-09-20T08:29:15Z`
+- Index updated: `2026-10-02T13:09:55Z`
 - Videos indexed: **1864**
 
 ## Events and collections

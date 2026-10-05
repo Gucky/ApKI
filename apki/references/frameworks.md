@@ -3,7 +3,7 @@
 The current Apple Technology directory, listed alphabetically. Entries are framework/topic landing pages, not frozen API documentation; use the Apple link for the current canonical detail.
 
 - Source: [https://developer.apple.com/tutorials/data/documentation/technologies.json](https://developer.apple.com/tutorials/data/documentation/technologies.json)
-- Index updated: `2026-09-20T08:29:15Z`
+- Index updated: `2026-10-02T13:09:55Z`
 - Frameworks and technology topics: **399**
 
 - [Accelerate](https://developer.apple.com/documentation/accelerate)
