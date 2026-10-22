@@ -3,13 +3,13 @@
 Use this as a fast path for a named UIKit class, then continue in the linked Apple documentation. This is a selected entry point, not an inventory of UIKit.
 
 - Framework: [UIKit](https://developer.apple.com/documentation/uikit)
-- Component links last verified: `2026-07-17T15:27:41Z`
+- Component links last verified: `2026-10-22T14:39:47Z`
 
 ## Direct component lookup
 
 - Foundation: [UIView](https://developer.apple.com/documentation/uikit/uiview), [UIViewController](https://developer.apple.com/documentation/uikit/uiviewcontroller), [UIScrollView](https://developer.apple.com/documentation/uikit/uiscrollview), [UIStackView](https://developer.apple.com/documentation/uikit/uistackview)
 - Content and controls: [UILabel](https://developer.apple.com/documentation/uikit/uilabel), [UIButton](https://developer.apple.com/documentation/uikit/uibutton), [UIImageView](https://developer.apple.com/documentation/uikit/uiimageview), [UITextField](https://developer.apple.com/documentation/uikit/uitextfield), [UITextView](https://developer.apple.com/documentation/uikit/uitextview)
-- Collections: [UITableView](https://developer.apple.com/documentation/uikit/uitableview), [UICollectionView](https://developer.apple.com/documentation/uikit/uicollectionview), [UITableViewDiffableDataSource](https://developer.apple.com/documentation/uikit/uitableviewdiffabledatasource), [UICollectionViewDiffableDataSource](https://developer.apple.com/documentation/uikit/uicollectionviewdiffabledatasource)
+- Collections: [UITableView](https://developer.apple.com/documentation/uikit/uitableview), [UICollectionView](https://developer.apple.com/documentation/uikit/uicollectionview), [UITableViewDiffableDataSource](https://developer.apple.com/documentation/uikit/uitableviewdiffabledatasource-2euir), [UICollectionViewDiffableDataSource](https://developer.apple.com/documentation/uikit/uicollectionviewdiffabledatasource-9tqpa)
 - Navigation and layout: [UINavigationController](https://developer.apple.com/documentation/uikit/uinavigationcontroller), [UITabBarController](https://developer.apple.com/documentation/uikit/uitabbarcontroller), [NSLayoutConstraint](https://developer.apple.com/documentation/uikit/nslayoutconstraint)
 
 ## Continue by concern

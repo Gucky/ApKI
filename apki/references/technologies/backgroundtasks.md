@@ -1,7 +1,7 @@
 # BackgroundTasks Component Index
 
 - Framework: [BackgroundTasks](https://developer.apple.com/documentation/backgroundtasks)
-- Component links last verified: `2026-07-17T17:47:22Z`
+- Component links last verified: `2026-10-22T14:39:47Z`
 
 ## Direct component lookup
 

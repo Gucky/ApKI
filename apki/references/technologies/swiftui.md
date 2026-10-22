@@ -3,7 +3,7 @@
 Use this as a fast path for a named SwiftUI component, then continue in the linked Apple documentation. This is a selected entry point, not an inventory of SwiftUI.
 
 - Framework: [SwiftUI](https://developer.apple.com/documentation/swiftui)
-- Component links last verified: `2026-07-17T15:26:23Z`
+- Component links last verified: `2026-10-22T14:39:47Z`
 
 ## Direct component lookup
 

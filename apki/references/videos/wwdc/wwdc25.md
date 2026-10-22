@@ -1,7 +1,7 @@
 # WWDC25
 
 - Source catalogue: [https://developer.apple.com/videos/all-videos/](https://developer.apple.com/videos/all-videos/)
-- Index updated: `2026-10-02T13:09:55Z`
+- Index updated: `2026-10-22T14:34:41Z`
 - Videos: **122**
 
 - [Automate your development process with the App Store Connect API](https://developer.apple.com/videos/play/wwdc2025/324/) — Learn how the new Webhook API can provide you with real-time notifications from App Store Connect. We'll also introduce new APls that can help you manage user feedback and build delivery, and discuss how to integrate these tools into your development workflow to improve efficiency and streamline your processes. (16:39 · app-store,-distribution-&-marketing · ios, ipados, macos, tvos, visionos, watchos)

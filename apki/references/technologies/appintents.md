@@ -3,7 +3,7 @@
 Use this as a fast path for an app action, entity, Shortcuts, Spotlight, Siri, or Apple Intelligence integration question, then continue in the linked Apple documentation. This is a selected entry point, not a replacement for the framework reference.
 
 - Framework: [App Intents](https://developer.apple.com/documentation/appintents)
-- Component links last verified: `2026-07-17T17:36:04Z`
+- Component links last verified: `2026-10-22T14:39:47Z`
 
 ## Direct component lookup
 

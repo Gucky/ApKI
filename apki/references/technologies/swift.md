@@ -3,8 +3,8 @@
 Use this as a fast path for a named Swift type or concurrency feature, then continue in the linked primary source. This is a selected entry point, not a replacement for the language guide or complete standard library.
 
 - Apple reference: [Swift](https://developer.apple.com/documentation/swift)
-- Official language guide: [The Swift Programming Language](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/)
-- Component links last verified: `2026-07-17T17:29:00Z`
+- Official language guide: [The Swift Programming Language](https://docs.swift.org/latest/documentation/the-swift-programming-language/)
+- Component links last verified: `2026-10-22T14:39:47Z`
 
 ## Core language and standard library
 

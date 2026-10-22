@@ -1,7 +1,7 @@
 # WWDC18
 
 - Source catalogue: [https://developer.apple.com/videos/all-videos/](https://developer.apple.com/videos/all-videos/)
-- Index updated: `2026-10-02T13:09:55Z`
+- Index updated: `2026-10-22T14:34:41Z`
 - Videos: **38**
 
 - [A Tour of UICollectionView](https://developer.apple.com/videos/play/wwdc2018/225/) — UICollectionView is a flexible, powerful tool to help you achieve great user experiences in your applications. Hear how you can leverage these rich APIs to rapidly move from initial design ideas to polished shipping applications. Topics range from getting started to advanced update animations and layouts. (40:22 · swiftui-&-ui-frameworks · ios, ipados)

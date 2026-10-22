@@ -3,7 +3,7 @@
 Use this as a fast path for a named SwiftData API or persistence concern, then continue in the linked Apple documentation. This is a selected entry point, not a replacement for the framework reference.
 
 - Framework: [SwiftData](https://developer.apple.com/documentation/swiftdata)
-- Component links last verified: `2026-07-17T17:30:27Z`
+- Component links last verified: `2026-10-22T14:39:47Z`
 
 ## Direct component lookup
 

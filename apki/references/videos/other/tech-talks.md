@@ -1,7 +1,7 @@
 # tech-talks
 
 - Source catalogue: [https://developer.apple.com/videos/all-videos/](https://developer.apple.com/videos/all-videos/)
-- Index updated: `2026-10-02T13:09:55Z`
+- Index updated: `2026-10-22T14:34:41Z`
 - Videos: **104**
 
 - [Accelerate your machine learning workloads with the M5 and A19 GPUs](https://developer.apple.com/videos/play/tech-talks/111432/) — Discover how to take advantage of the M5 and A19 GPUs to accelerate machine learning. Find out how to use the Neural Accelerators inside each GPU core to perform accelerated tensor and matrix operations for AI training and inference, and learn how to optimize performance using the Metal debugger and Metal system trace. (34:26 · graphics-&-games · ios, macos)

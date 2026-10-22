@@ -19,6 +19,6 @@ Use the matching framework subsection for a named media, camera, analysis, drawi
 
 ## PencilKit, Core Haptics, and Speech
 
-- [PencilKit](https://developer.apple.com/documentation/pencilkit): [PKCanvasView](https://developer.apple.com/documentation/pencilkit/pkcanvasview), [PKDrawing](https://developer.apple.com/documentation/pencilkit/pkdrawing), [PKToolPicker](https://developer.apple.com/documentation/pencilkit/pktoolpicker)
+- [PencilKit](https://developer.apple.com/documentation/pencilkit): [PKCanvasView](https://developer.apple.com/documentation/pencilkit/pkcanvasview), [PKDrawing](https://developer.apple.com/documentation/pencilkit/pkdrawing-swift.struct), [PKToolPicker](https://developer.apple.com/documentation/pencilkit/pktoolpicker)
 - [Core Haptics](https://developer.apple.com/documentation/corehaptics): [CHHapticEngine](https://developer.apple.com/documentation/corehaptics/chhapticengine), [CHHapticPattern](https://developer.apple.com/documentation/corehaptics/chhapticpattern)
 - [Speech](https://developer.apple.com/documentation/speech): [SFSpeechRecognizer](https://developer.apple.com/documentation/speech/sfspeechrecognizer), [SFSpeechAudioBufferRecognitionRequest](https://developer.apple.com/documentation/speech/sfspeechaudiobufferrecognitionrequest)

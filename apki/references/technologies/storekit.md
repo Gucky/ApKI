@@ -1,7 +1,7 @@
 # StoreKit Component Index
 
 - Framework: [StoreKit](https://developer.apple.com/documentation/storekit)
-- Component links last verified: `2026-07-17T17:47:20Z`
+- Component links last verified: `2026-10-22T14:39:47Z`
 
 ## Direct component lookup
 

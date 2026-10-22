@@ -3,7 +3,7 @@
 Use this as a fast path for a named Foundation API or infrastructure concern, then continue in the linked Apple documentation. This is a selected entry point, not a replacement for the framework reference.
 
 - Framework: [Foundation](https://developer.apple.com/documentation/foundation)
-- Component links last verified: `2026-07-17T17:31:33Z`
+- Component links last verified: `2026-10-22T14:39:47Z`
 
 ## Direct component lookup
 

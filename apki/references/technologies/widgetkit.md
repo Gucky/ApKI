@@ -3,7 +3,7 @@
 Use this as a fast path for widget configuration, timelines, or widget updates, then continue in the linked Apple documentation. This is a selected entry point, not a replacement for the framework reference.
 
 - Framework: [WidgetKit](https://developer.apple.com/documentation/widgetkit)
-- Component links last verified: `2026-07-17T17:36:03Z`
+- Component links last verified: `2026-10-22T14:39:47Z`
 
 ## Direct component lookup
 

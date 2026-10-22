@@ -7,9 +7,9 @@ Use these Apple primary sources when adapting an app to iPhone Duo’s outer and
 - [Get ready for iPhone Duo](https://developer.apple.com/iphone-duo/) — launch hub for videos, developer activities, Xcode, documentation, and design resources
 - [Preparing your app for iPhone Duo](https://developer.apple.com/documentation/technologyoverviews/preparing-your-app-for-iphone-duo) — implementation overview covering resizing, vertical bars, arrangement views, reserved regions, cameras, and testing across displays and poses
 - [Designing for iPhone Duo](https://developer.apple.com/design/human-interface-guidelines/designing-for-iphone-duo) — HIG guidance covering anatomy, poses, dynamic layouts, reserved regions, split and arrangement views, and vertical controls
-- Verified: `2026-09-20`
+- Verified: `2026-10-22`
 
-The launch hub currently lists **six Tech Talks**. “Get ready for iPhone Duo” is the hub’s title, not a seventh video. The Apple video catalogue also includes two recorded Group Labs.
+The launch hub currently lists **six Tech Talks** and three Group Lab recordings. “Get ready for iPhone Duo” is the hub’s title, not a seventh Tech Talk. The Apple video catalogue includes four recorded Group Labs.
 
 ## Apple developer videos
 
@@ -24,6 +24,8 @@ Open each video page for its current chapter summaries, code examples, related v
 
 ## Group Labs
 
+- [iPhone Duo Group Lab — recording 288](https://developer.apple.com/videos/play/meet-with-apple/288/) — layouts across displays and poses, the hinge, Split View multitasking, and camera experiences
+- [iPhone Duo Group Lab — Day 3, recording 287](https://developer.apple.com/videos/play/meet-with-apple/287/) — layouts across displays and poses, the hinge, Split View multitasking, and camera experiences
 - [iPhone Duo Group Lab — recording 286](https://developer.apple.com/videos/play/meet-with-apple/286/) — layouts across displays and poses, the hinge, Split View multitasking, and camera experiences
 - [iPhone Duo Group Lab — recording 285](https://developer.apple.com/videos/play/meet-with-apple/285/) — layouts across displays and poses, the hinge, Split View multitasking, and camera experiences
 

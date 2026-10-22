@@ -3,8 +3,8 @@
 The current Apple Technology directory, listed alphabetically. Entries are framework/topic landing pages, not frozen API documentation; use the Apple link for the current canonical detail.
 
 - Source: [https://developer.apple.com/tutorials/data/documentation/technologies.json](https://developer.apple.com/tutorials/data/documentation/technologies.json)
-- Index updated: `2026-10-02T13:09:55Z`
-- Frameworks and technology topics: **399**
+- Index updated: `2026-10-22T14:34:41Z`
+- Frameworks and technology topics: **401**
 
 - [Accelerate](https://developer.apple.com/documentation/accelerate)
 - [Accessibility](https://developer.apple.com/documentation/accessibility)
@@ -180,6 +180,7 @@ The current Apple Technology directory, listed alphabetically. Entries are frame
 - [GSS](https://developer.apple.com/documentation/gss)
 - [HealthKit](https://developer.apple.com/documentation/healthkit)
 - [HIDDriverKit](https://developer.apple.com/documentation/hiddriverkit)
+- [HomeExtensions](https://developer.apple.com/documentation/homeextensions)
 - [HomeKit](https://developer.apple.com/documentation/homekit)
 - [HTTP Live Streaming](https://developer.apple.com/documentation/http-live-streaming)
 - [hvf](https://developer.apple.com/documentation/hvf)
@@ -377,6 +378,7 @@ The current Apple Technology directory, listed alphabetically. Entries are frame
 - [VideoDriverKit](https://developer.apple.com/documentation/videodriverkit)
 - [Virtualization](https://developer.apple.com/documentation/virtualization)
 - [Vision](https://developer.apple.com/documentation/vision)
+- [VisionEntitlementServices](https://developer.apple.com/documentation/visionentitlementservices)
 - [VisionKit](https://developer.apple.com/documentation/visionkit)
 - [visionOS](https://developer.apple.com/documentation/visionos)
 - [visionOS Release Notes](https://developer.apple.com/documentation/visionos-release-notes)

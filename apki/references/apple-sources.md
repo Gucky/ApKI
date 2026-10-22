@@ -2,7 +2,7 @@
 
 Use these source hubs when a request is broader than a single framework or WWDC session.
 
-- Index updated: `2026-09-20`
+- Index updated: `2026-10-22`
 
 ## Current platform spotlights
 

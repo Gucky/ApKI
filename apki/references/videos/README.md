@@ -3,13 +3,13 @@
 Compact entry point to Apple’s complete current video catalogue. Use the individual event and collection files to search for entries relevant to the requested topic; each entry pairs the Apple video link with Apple’s concise summary, while the detail page remains authoritative for video, transcript/search, and supplementary material.
 
 - Source: [https://developer.apple.com/videos/all-videos/](https://developer.apple.com/videos/all-videos/)
-- Index updated: `2026-10-02T13:09:55Z`
-- Videos indexed: **1864**
+- Index updated: `2026-10-22T14:34:41Z`
+- Videos indexed: **1867**
 
 ## Events and collections
 
 - [tech-talks](other/tech-talks.md) — 104 videos
-- [meet-with-apple](other/meet-with-apple.md) — 66 videos
+- [meet-with-apple](other/meet-with-apple.md) — 69 videos
 - [WWDC26](wwdc/wwdc26.md) — 138 videos
 - [WWDC25](wwdc/wwdc25.md) — 122 videos
 - [WWDC24](wwdc/wwdc24.md) — 123 videos
